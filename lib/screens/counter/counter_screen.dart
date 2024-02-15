@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_example/constants/app_constants.dart';
-import 'package:riverpod_example/main.dart';
 import 'package:riverpod_example/screens/counter/provider/counter_provider.dart';
 
 class CounterScreen extends StatelessWidget {
